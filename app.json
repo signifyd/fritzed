@@ -1,0 +1,10 @@
+{
+  "name": "Fritzed",
+  "description": "A Broken Web Application",
+  "repository": "https://github.com/signifyd/fritzed",
+  "keywords": ["hack", "hacking", "insecure", "security", "workshop", "challenge", "training", "xss", "csrf", "sql injection", "exploitable"],
+  "addons": ["cleardb:ignite"],
+  "env": {
+    "HEROKU": "heroku"
+  }
+}
