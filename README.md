@@ -1,7 +1,6 @@
-Fritzed
-========
+# Fritzed, A Broken Web Application
 
-Fritzed is an intentionally insecure PHP web application, used for training on web application security.
+Fritzed is an intentionally insecure web application, used for training on web application security.
 
 # Installation
 
